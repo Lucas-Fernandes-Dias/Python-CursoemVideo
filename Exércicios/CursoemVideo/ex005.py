@@ -1,0 +1,5 @@
+n1 = int(input('Digite um numero: '))
+n2 = int(input('Digite um outro numero: '))
+s = (n1+n2)
+print('A soma entre {} e {} é igual a {}, está correto?'.format(n1, n2, s))
+print('Se estiver correto digite 1, caso esteja errado digite 2')
